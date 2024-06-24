@@ -4,7 +4,9 @@ Using synthetic data for binary classification, explore neural networks layers e
 
 <br>
 <br>
-Testing folder contains plain python neural network to verify results.
+Testing folder contains plain python neural network to verify some results.
+<br>
+Datasets used are moons, flowers, circles and two_spirals. Folders are named after these and contain 2 tensorflow and 2 pytorch implementation ipynb files. 2 files of framework achieve same results but different style of APIs. 
 
 ![binary classification input and output visualize](img/Slide1.PNG)
 <br>
